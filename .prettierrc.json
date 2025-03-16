@@ -1,0 +1,11 @@
+{
+    "trailingComma": "all",
+    "tabWidth": 2,
+    "semi": true,
+    "plugins": ["prettier-plugin-tailwindcss", "@prettier/plugin-ruby"],
+    "jsxSingleQuote": false,
+    "jsxBracketSameLine": false,
+    "htmlWhitespaceSensitivity": "ignore",
+    "arrowParens": "avoid",
+    "singleQuote": true
+}
